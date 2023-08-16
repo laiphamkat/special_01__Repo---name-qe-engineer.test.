@@ -1,0 +1,18 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_buyer_login",
+        "step 2: At Page_buyer_login click on input_loginkey",
+        "step 3: At Page_buyer_login input on input_loginkey",
+        "step 4: At Page_buyer_login click on input_password",
+        "step 5: At Page_buyer_login input on input_password",
+        "step 6: At Page_buyer_login click on button_object",
+        "step 7: At Page_buyer_login click on div_object",
+        "step 8: At Page_buyer_login input on input_loginkey",
+        "step 9: At Page_buyer_login click on div_object",
+        "step 10: At Page_buyer_login input on input_password",
+        "step 11: At Page_buyer_login click on button_object",
+        "step 12: At Page_buyer_login click on button_object",
+        "step 13: At Page_buyer_login click on hyperlink_buyer_signup --> navigate to Page_buyer_signup",
+        "step 14: Add visual checkpoint at Page_buyer_signup"
+    ]
+}

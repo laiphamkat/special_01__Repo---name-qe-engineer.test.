@@ -1,0 +1,32 @@
+Flow ID,Test Steps,Flow Priority
+1,"step 1: Navigate to Page_buyer_login
+step 2: At Page_buyer_login click on input_loginkey
+step 3: At Page_buyer_login input on input_loginkey
+step 4: At Page_buyer_login click on input_password
+step 5: At Page_buyer_login input on input_password
+step 6: At Page_buyer_login click on button_object
+step 7: At Page_buyer_login click on div_object
+step 8: At Page_buyer_login input on input_loginkey
+step 9: At Page_buyer_login click on div_object
+step 10: At Page_buyer_login input on input_password
+step 11: At Page_buyer_login click on button_object
+step 12: At Page_buyer_login click on button_object
+step 13: At Page_buyer_login click on hyperlink_buyer_signup --> navigate to Page_buyer_signup
+step 14: Add visual checkpoint at Page_buyer_signup",High
+2,"step 1: Navigate to Page_buyer_login
+step 2: At Page_buyer_login click on hyperlink_ --> navigate to Page_home
+step 3: Add visual checkpoint at Page_home",High
+6,"step 1: Navigate to Page_business-analyst
+step 2: Add visual checkpoint at Page_business-analyst",Trivial
+5,"step 1: Navigate to Page_fresher-tester
+step 2: Add visual checkpoint at Page_fresher-tester",Trivial
+7,"step 1: Navigate to Page_bang-hoc-phi-testing
+step 2: Add visual checkpoint at Page_bang-hoc-phi-testing",Trivial
+3,"step 1: Navigate to Page_home
+step 2: Add visual checkpoint at Page_home",Trivial
+8,"step 1: Navigate to Page_flash_sale
+step 2: Add visual checkpoint at Page_flash_sale",Trivial
+4,"step 1: Navigate to Page_m_mien-phi-van-chuyen
+step 2: Add visual checkpoint at Page_m_mien-phi-van-chuyen",Trivial
+9,"step 1: Navigate to Page_noi-dung-khoa-hoc-test-automation
+step 2: Add visual checkpoint at Page_noi-dung-khoa-hoc-test-automation",Trivial
